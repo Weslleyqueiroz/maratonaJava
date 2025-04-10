@@ -1,6 +1,6 @@
 package weslley.dev.maratonajava.introducao;
 
-public class tiposPrimitivos {
+public class tiposPrimitivosAula02 {
     int idade = 17;
     long numeroGrande = 1000000000;
     double salarioDouble = 2500.60;

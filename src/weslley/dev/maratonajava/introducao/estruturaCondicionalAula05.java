@@ -1,6 +1,6 @@
 package weslley.dev.maratonajava.introducao;
 
-public class estruturaCondicional {
+public class estruturaCondicionalAula05 {
     public static void main(String[] args) {
         double salarioAnual = 9000;
         double primeiraFaixa = 9.70/100;
