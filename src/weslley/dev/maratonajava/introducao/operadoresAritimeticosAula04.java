@@ -1,6 +1,6 @@
 package weslley.dev.maratonajava.introducao;
 
-public class operadoresAritimeticos {
+public class operadoresAritimeticosAula04 {
     public static void main(String[] args) {
         //+-/*
 

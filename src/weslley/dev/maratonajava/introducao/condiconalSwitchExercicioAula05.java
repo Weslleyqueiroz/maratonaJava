@@ -1,6 +1,6 @@
 package weslley.dev.maratonajava.introducao;
 
-public class condiconalSwitchExercicio {
+public class condiconalSwitchExercicioAula05 {
     public static void main(String[] args) {
         //dado os valores de 1 a 7, imprima se  é dia util ou final de semana
         //considere 1 como domingo

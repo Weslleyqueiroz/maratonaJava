@@ -1,6 +1,6 @@
 package weslley.dev.maratonajava.introducao;
 
-public class estruturasDeRepeticao {
+public class estruturasDeRepeticaoAula06 {
     public static void main(String[] args) {
     //imprima os primeiros 25 numeros de um dado valor, 50.
      int valorMax = 50;

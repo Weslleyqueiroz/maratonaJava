@@ -1,6 +1,6 @@
 package weslley.dev.maratonajava.introducao;
 
-public class condicionalSwitch {
+public class condicionalSwitchAula05 {
     public static void main(String[] args) {
         //imprima o dia da semana, considerando 1 como domingo
         byte dia = 5;

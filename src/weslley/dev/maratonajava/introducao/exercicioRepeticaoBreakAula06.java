@@ -1,6 +1,6 @@
 package weslley.dev.maratonajava.introducao;
 
-public class exercicioRepeticaoBreak {
+public class exercicioRepeticaoBreakAula06 {
     public static void main(String[] args) {
         double valorCarro = 40000;
 
